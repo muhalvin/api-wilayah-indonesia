@@ -65,7 +65,7 @@ Contoh Response:
 #### 2. Mengambil Daftar Kab/Kota pada Provinsi Tertentu
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/regencies/{provinceId}.json
+GET https://muhalvin.github.io/api-wilayah-indonesia/api/regencies/{provinceId}.json
 ```
 
 Contoh untuk mengambil daftar kab/kota di provinsi Aceh (ID = 11):
